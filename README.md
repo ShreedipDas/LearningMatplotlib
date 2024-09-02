@@ -1,5 +1,5 @@
-# My-first-Matplotlib-project
-- This is the record of my learning of Matplotlib and making some graphs.
+# Learning matplotlib
+- This repository will be the record of my learning of Matplotlib and making some graphs.
 - This repository will contain the bare and basic projects that I learned.
 
 # Median Developer Salaries by Age
