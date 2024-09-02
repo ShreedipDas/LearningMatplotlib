@@ -1,10 +1,10 @@
 # My-first-Matplotlib-project
 - This is the record of my learning of Matplotlib and making some graphs.
-- This repository is going to contain the very bare and basic projects that I learned.
+- This repository will contain the bare and basic projects that I learned.
 
 # Median Developer Salaries by Age
-- Based on the Annual Stack Overflow developer survey of 2019, I created a plot on the salaries of different language developers as per their age.
-- In this plot, we visualize the salaries of the Python, Javascript developers, and developers in general with ages ranging from 18 to 55.
+- Based on the 2019 Annual Stack Overflow developer survey, I created a plot showing the salaries of different language developers according to their age.
+In this plot, we visualize the salaries of Python, Javascript, and developers in general, whose ages range from 18 to 55.
 - The link for datasets: https://docs.google.com/document/d/1ciyjHL9lRKCWDSmI-JoDiCWveW62ELLqXlO284ze5CQ/edit?usp=sharing
 - While experimenting with styles and grids, I came to like the 'fivethirtyeight' style, the 'ggplot' style, and a special style called the 'xkcd' style that mimics the artstyle of comics.
 
@@ -27,6 +27,7 @@ This is the plot with the 'fivethirtyeight' style.
 # Developers and their Languages
 - From the same survey Stack Overflow survey, I am using a CSV file containing the info on around 90,000 developers and the languages they worked with.
 - The link to the CSV file: https://github.com/CoreyMSchafer/code_snippets/blob/master/Python/Matplotlib/02-BarCharts/data.csv
+- Since the vertical bar chart would be too crowded, I opted for a horizontal bar chart.
 
 ![Horizontal bar chart](https://github.com/user-attachments/assets/e6861703-7cb1-45d5-ae7a-ee93ea5333a3)
 
