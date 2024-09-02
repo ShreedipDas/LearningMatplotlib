@@ -26,7 +26,7 @@ This is the plot with the 'fivethirtyeight' style.
 
 # Developers and their Languages
 - From the same survey Stack Overflow survey, I am using a CSV file containing the info on around 90,000 developers and the languages they worked with.
-- The link to the CSV file: https://github.com/CoreyMSchafer/code_snippets/blob/master/Python/Matplotlib/02-BarCharts/data.csv
+- I uploaded the CSV file but here is the link: (https://github.com/ShreedipDas/My-first-Matplotlib-project/blob/main/CSV%20file)
 - Since the vertical bar chart would be too crowded, I opted for a horizontal bar chart.
 - I read this CSV file through the CSV module on python.
 
