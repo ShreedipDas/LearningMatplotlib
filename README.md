@@ -28,7 +28,10 @@ This is the plot with the 'fivethirtyeight' style.
 - From the same survey Stack Overflow survey, I am using a CSV file containing the info on around 90,000 developers and the languages they worked with.
 - The link to the CSV file: https://github.com/CoreyMSchafer/code_snippets/blob/master/Python/Matplotlib/02-BarCharts/data.csv
 - Since the vertical bar chart would be too crowded, I opted for a horizontal bar chart.
+- I read this CSV file through the CSV module on python.
 
 ![Horizontal bar chart](https://github.com/user-attachments/assets/e6861703-7cb1-45d5-ae7a-ee93ea5333a3)
+
+- Now I am going to read the CSV file using pandas
 
 
