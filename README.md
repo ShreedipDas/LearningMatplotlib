@@ -28,10 +28,15 @@ This is the plot with the 'fivethirtyeight' style.
 - From the same survey Stack Overflow survey, I am using a CSV file containing the info on around 90,000 developers and the languages they worked with.
 - I uploaded the CSV file but here is the link: (https://github.com/ShreedipDas/My-first-Matplotlib-project/blob/main/CSV%20file)
 - Since the vertical bar chart would be too crowded, I opted for a horizontal bar chart.
-- I read this CSV file through the CSV module on python.
+- I read this CSV file through the CSV module on Python as well as used pandas to do the same.
 
 ![Horizontal bar chart](https://github.com/user-attachments/assets/e6861703-7cb1-45d5-ae7a-ee93ea5333a3)
 
-- Now I am going to read the CSV file using pandas
+- As you can see, my graph is similar to the graph plotted by the Stack Overflow survey.
+
+<img width="721" alt="Stack Overflow 2019 survey" src="https://github.com/user-attachments/assets/1d68c9dd-1df8-4a5e-aae0-1eda2a82701a">
+
+
+
 
 
